@@ -16,10 +16,6 @@ Here is a flowchart for the project:
 
 ![image](https://github.com/Taijasi-Kaveri/-Real-time-Twitter-Sentiment-Analysis/assets/52359546/b06fceef-63d8-47fd-a3ee-02f75e155f1f)
 
-## Class Diagram
-
-Here is a class diagram for the project:
-
 ## Prerequisites
 
 To run this project, you need the following:
